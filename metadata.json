@@ -1,0 +1,8 @@
+{
+  "name": "A voz da guitarra - Portal do aluno",
+  "description": "Plataforma de gestão para aulas de instrumento musical com horários semanais, controlo de pagamentos e envio de materiais de estudo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
